@@ -1,1 +1,0 @@
-android-signing:2.2.4
